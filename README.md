@@ -9,7 +9,7 @@
 ### References
 
 - [スケジュール](./project/schedule.md)
-- [企画書](./project/proposal.html)
+- [企画書](https://docs.google.com/document/d/130nviSBEmjRZxts_7QS3POSZJlQs0T3pqVYPoepb9Ws/edit)
 - [仕様書](./Specification.md)
-- [ソース](https://docs.google.com/document/d/130nviSBEmjRZxts_7QS3POSZJlQs0T3pqVYPoepb9Ws/edit)
+- [ソース]()
 - [プレゼンテーション]()
