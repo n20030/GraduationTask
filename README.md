@@ -1,6 +1,6 @@
 # GraduationTask2021
 
-## vi練習問題出力プログラム
+## vi操作でドット絵を作ろう
 
 ### Menmber
 
@@ -8,8 +8,8 @@
 
 ### References
 
-- [スケジュール]()
-- [企画書]()
-- [仕様書]()
+- [スケジュール](./project/schedule.md)
+- [企画書](https://github.com/yuumi3)
+- [仕様書](./Specification.md)
 - [ソース]()
 - [プレゼンテーション]()
