@@ -8,7 +8,8 @@
 
 ### References
 
-- [スケジュール](./project/schedule.md)
+
+- [スケジュール](https://app.asana.com/0/1201212200718102/timeline)
 - [企画書](https://docs.google.com/document/d/130nviSBEmjRZxts_7QS3POSZJlQs0T3pqVYPoepb9Ws/edit)
 - [仕様書](./Specification.md)
 - [ソース]()
