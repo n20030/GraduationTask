@@ -15,5 +15,5 @@
 - [ソース]()
 - [プレゼンテーション]()
 
-<a href="ここにリンク先のURLを入れる" target="_blank" rel="noopener noreferrer">新規タブで開く</a>
+<a href="./Specification.md" target="_blank" rel="noopener noreferrer">新規タブで開く</a>
 
