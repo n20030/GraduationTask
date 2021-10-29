@@ -15,5 +15,5 @@
 - [ソース]()
 - [プレゼンテーション]()
 
-<a href="./Specification.md" target="_blank" rel="noopener noreferrer">新規タブで開く</a>
+<a href="https://docs.google.com/document/d/130nviSBEmjRZxts_7QS3POSZJlQs0T3pqVYPoepb9Ws/edit") target="_blank" rel="noopener noreferrer">新規タブで開く</a>
 
