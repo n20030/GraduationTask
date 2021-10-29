@@ -14,3 +14,6 @@
 - [仕様書](./Specification.md)
 - [ソース]()
 - [プレゼンテーション]()
+
+<a href="ここにリンク先のURLを入れる" target="_blank" rel="noopener noreferrer">新規タブで開く</a>
+
