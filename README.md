@@ -14,6 +14,3 @@
 - [仕様書](./Specification.md)
 - [ソース]()
 - [プレゼンテーション]()
-
-<a href="https://docs.google.com/document/d/130nviSBEmjRZxts_7QS3POSZJlQs0T3pqVYPoepb9Ws/edit") target="_blank" rel="noopener noreferrer">新規タブで開く</a>
-
